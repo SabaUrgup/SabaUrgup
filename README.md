@@ -21,7 +21,6 @@
                   <li>🌱 Currently Learning: Cloud computing and DevOps practices</li>
                   <li>💬 Ask Me About: Full-stack development, agile methodologies, or any tech-related queries</li>
                   <li>📫 Contact: sabaurgup@gmail.com</li>
-                  <li>😄 Pronouns: She/Her</li>
                   <li>⚡ Fun Fact: I love swimming during my free time.</li>
               </ul> 
           </td>
