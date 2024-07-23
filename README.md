@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I%27m+Saba+%C3%9Crg%C3%BCp+%F0%9F%91%8B;Welcome+to+My+Github+Profile&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
-    <img src="https://media.giphy.com/media/dyF6DUAHJ2sS1h1CMu/giphy.gif" width="480" height="269" alt="Giphy GIF"  style="" frameBorder="0" class="giphy-embed" allowFullScree>    
+    <img src="https://media.giphy.com/media/dyF6DUAHJ2sS1h1CMu/giphy.gif" width="980" height="420" alt="Giphy GIF">    
 </p>
 
 <table align="center" border="1" width="80%" cellpadding="10" cellspacing="10">
