@@ -29,14 +29,14 @@
       <tr>
           <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
           <td>
-              Merhaba! Ben bir Full-Stack Yazılım Geliştiricisiyim. Modern teknolojiler kullanarak verimli ve ölçeklenebilir yazılım çözümleri geliştirmeyi hedefliyorum. Hem backend hem de frontend geliştirme konularında çalışmayı ve yazılım problemlerini çözmeyi seviyorum.
+              Ben bir Full-Stack Yazılım Geliştiricisiyim. Modern teknolojiler kullanarak verimli ve ölçeklenebilir yazılım çözümleri geliştirmeyi hedefliyorum. Hem backend hem de frontend geliştirme konularında çalışmayı ve yazılım problemlerini çözmeyi seviyorum.
               <ul>
                   <li>🎓 Eğitim: Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Lisans Diploması</li>
                   <li>🏢 Mevcut Pozisyon: Full-Stack Yazılım Geliştirici</li>
                   <li>🌱 Şu Anda Öğreniyorum: Bulut bilişim ve DevOps uygulamaları</li>
                   <li>💬 Bana Sorun: Full-stack geliştirme, agile metodolojiler veya teknoloji ile ilgili her şey</li>
                   <li>📫 İletişim: sabaurgup@gmail.com</li>
-                  <li>😄 Zamanda: Boş zamanlarımda yüzmeyi severim.</li>
+                  <li>⚡ Hobi: Boş zamanlarımda yüzmeyi severim.</li>
               </ul> 
           </td>
       </tr>
