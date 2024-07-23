@@ -19,8 +19,7 @@
                   <li>🎓 Education: Bachelor’s Degree in Computer Engineering from Bursa Technical University</li>
                   <li>🏢 Current Position: Full-Stack Software Developer</li>
                   <li>🌱 Currently Learning: Cloud computing and DevOps practices</li>
-                  <li>💬 Ask Me About: Full-stack development, agile methodologies, or any tech-related queries</li>
-                  <li>📫 Contact: sabaurgup@gmail.com</li>
+                  <li>💬 Ask Me About: Full-stack development or any tech-related queries</li>
                   <li>⚡ Fun Fact: I love swimming during my free time.</li>
               </ul> 
           </td>
@@ -33,8 +32,7 @@
                   <li>🎓 Eğitim: Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Lisans Diploması</li>
                   <li>🏢 Mevcut Pozisyon: Full-Stack Yazılım Geliştirici</li>
                   <li>🌱 Şu Anda Öğreniyorum: Bulut bilişim ve DevOps uygulamaları</li>
-                  <li>💬 Bana Sorun: Full-stack geliştirme, agile metodolojiler veya teknoloji ile ilgili her şey</li>
-                  <li>📫 İletişim: sabaurgup@gmail.com</li>
+                  <li>💬 Bana Sorun: Full-stack geliştirme veya teknoloji ile ilgili her şey</li>
                   <li>⚡ Hobi: Boş zamanlarımda yüzmeyi severim.</li>
               </ul> 
           </td>
