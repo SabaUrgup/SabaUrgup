@@ -159,13 +159,19 @@
             <a href="https://slack.com/" target="_blank" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt="Slack"/>
             </a>
+            <a href="https://teams.microsoft.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85" width="40" height="40" alt="Microsoft Teams"/>
+            </a>
+            <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+                <img src="https://partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/featured_content_500x280_office365_tile.jpg?h=280&iar=0&w=500&la=tr&hash=3380E9DB4AE905407B55DA18D9785725" width="60" height="40" alt="Office 365"/>
+            </a>
           </td>
       </tr>
       <tr>
           <td align="center">Software Development Life Cycle 📈 </td>
           <td>
             <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile" alt="Agile" width="60" height="40"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqtDCT4VZAl_hLRIr8qU9Mz4YXZR-844K0e3FpOH8D3RLks5THgFGhAWVGb2WhskfZ4s&usqp=CAU" alt="Agile" width="80" height="40"/>
             </a>
           </td>
       </tr>
