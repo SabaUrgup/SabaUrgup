@@ -77,6 +77,9 @@
             <a href="https://jquery.com" target="_blank" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" width="60" height="40" alt="Ajax"/> 
             </a>
+            <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="next.js" width="40" height="40"/>
+            </a>
           </td>
       </tr>
       <tr>
@@ -154,10 +157,7 @@
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
             </a>
             <a href="https://slack.com/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt="Slack"/>
-            </a>
-            <a href="https://teams.microsoft.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85" width="40" height="40" alt="Microsoft Teams"/>
+                <img src="https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black.png" width="60" height="30" alt="Slack"/>
             </a>
             <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
                 <img src="https://partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/featured_content_500x280_office365_tile.jpg?h=280&iar=0&w=500&la=tr&hash=3380E9DB4AE905407B55DA18D9785725" width="60" height="40" alt="Office 365"/>
