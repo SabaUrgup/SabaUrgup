@@ -198,6 +198,9 @@
     <a href="mailto:sabaurgup@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/>
     </a>
+    <a href="https://medium.com/@sabaurgup" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="medium" width="40" height="40"/>
+    </a>
 </p>
 
 <h2 align="center">GitHub Stats 📊 </h2>
