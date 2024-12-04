@@ -18,7 +18,7 @@
               <ul>
                   <li>🎓 Education: Bachelor’s Degree in Computer Engineering from Bursa Technical University</li>
                   <li>🏢 Current Position: Full-Stack Software Developer</li>
-                  <li>🌱 Currently Learning: Cloud computing and DevOps practices</li>
+                  <li>🌱 Currently Learning: Microservice architecture and Java practices</li>
                   <li>💬 Ask Me About: Full-stack development or any tech-related queries</li>
                   <li>⚡ Fun Fact: I love swimming during my free time.</li>
               </ul> 
@@ -31,7 +31,7 @@
               <ul>
                   <li>🎓 Eğitim: Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Lisans Diploması</li>
                   <li>🏢 Mevcut Pozisyon: Full-Stack Yazılım Geliştirici</li>
-                  <li>🌱 Şu Anda Öğreniyorum: Bulut bilişim ve DevOps uygulamaları</li>
+                  <li>🌱 Şu Anda Öğreniyorum: Mikroservis mimarisi ve Java uygulamaları</li>
                   <li>💬 Bana Sorun: Full-stack geliştirme veya teknoloji ile ilgili her şey</li>
                   <li>⚡ Hobi: Boş zamanlarımda yüzmeyi severim.</li>
               </ul> 
@@ -57,7 +57,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
             </a>
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
             </a>
             <a href="https://jquery.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
@@ -80,6 +80,9 @@
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                 <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="next.js" width="40" height="40"/>
             </a>
+            <a href="https://angular.io/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40"/>
+            </a>
           </td>
       </tr>
       <tr>
@@ -96,6 +99,9 @@
             </a>
             <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+            </a>
+            <a href="https://dev.java/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="40" height="40"/>
             </a>
           </td>
       </tr>
@@ -193,13 +199,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
     </a>
     <a href="https://github.com/SabaUrgup" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
     </a>
     <a href="mailto:sabaurgup@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/>
     </a>
     <a href="https://medium.com/@sabaurgup" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="medium" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="medium" width="40" height="40"/>
     </a>
 </p>
 
